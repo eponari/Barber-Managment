@@ -1,4 +1,4 @@
-# Barber Management
+# Sallon Arber
 This project is part of the CEN 311 WEB TECHNOLOGIES AND PROGRAMMING course, fall semester 2021-2022  and also part of the ConnectIT project as part of EU for Innovation.
 
 Link: http://stud-proj.epoka.edu.al/~eponari19/
